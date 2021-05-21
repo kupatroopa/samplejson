@@ -1,0 +1,29 @@
+{
+  "quiz": [
+    {
+      "question": "What is the longest that an elephant has ever lived? (That we know of)",
+      "options": ["17 years", "49 years", "86 years", "142 years"],
+      "answer": 3
+    },
+    {
+      "question": "How many rings are on the Olympic flag?",
+      "options": ["None", "4", "5", "7"],
+      "answer": 2
+    },
+    {
+      "question": " What is a tarsier?",
+      "options": ["A primate", "A Lizard", "A bird"],
+      "answer": 1
+    },
+    {
+      "question": "  How did Spider-Man get his powers?",
+      "options": [
+        "Military experiment gone awry",
+        "Born with them",
+        "Woke up with them after a strage dream",
+        "Bitten by a radio active spider"
+      ],
+      "answer": 4
+    }
+  ]
+}
